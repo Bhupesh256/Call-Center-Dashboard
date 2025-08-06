@@ -126,8 +126,8 @@ This project demonstrates how to build a **Call Center Performance Dashboard** i
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/call-center-dashboard.git
+     https://github.com/Bhupesh256/Call-Center-Dashboard
    ```
-2. Open `dashboard/CallCenterDashboard.xlsx`
+2. Open `Call Center Dashboard.xlsx`
 3. Use slicers to explore rep-specific or time-based performance
 4. Modify datasets or add new reps to update insights automatically
